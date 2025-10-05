@@ -4,7 +4,6 @@ This project includes comprehensive tests for all error handling patterns and pa
 
 ## Test Coverage
 
-- **main**: 100% coverage - Tests that main doesn't panic
 - **basic**: 100% coverage - Tests division function with various inputs and error cases
 - **custom**: 100% coverage - Tests custom ValidationError type
 - **database**: 100% coverage - Tests DatabaseError type with unwrapping
